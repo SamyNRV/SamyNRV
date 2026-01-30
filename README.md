@@ -4,7 +4,7 @@
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 
-# ARUNAGIRINATHAN K
+# SAMY (Sabi) K.
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -123,24 +123,6 @@ class ArunagirinathK:
 
 ---
 
-<div align="center">
-  
-## Here’s my GitHub Score, updated daily:
-
-<!--SCORE_START-->
-🏆 **GitHub Score:** 1782
-
-📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
-
-🎮 **Level 3**
-[▓▓▓▓▓░░░░░] 56%
-<!--SCORE_END-->
-</div>
-
-<!---
-<div align="center">
-## 
-
 
 <div align="center">
 <table>
@@ -220,45 +202,22 @@ class ArunagirinathK:
 </div>
 --->
 
-# <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Github Statistics</h2>
-<div align="center">
-  
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" width="100%" />
-</div>
 
-<div align="center">
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARUNAGIRINATHAN-K&theme=dark" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-</div>
+
 
 <!--<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=60" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=3&row=1" width="49%" />
 </div>-->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60"/>
-</div>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark"/>
-</div>
-</div>
+
 
 ---
 
@@ -270,7 +229,6 @@ class ArunagirinathK:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunagirinathan-k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arunagirinathan-k.github.io/My-Portfolio/)
 
 </div>
 
